@@ -11,15 +11,6 @@ This repository contains a series of Python scripts and resources designed to an
   - [TopicModelReplica.py](#topicmodelreplicapy)
   - [Visualizations.py](#visualizationspy)
   - [Antarctic_Governance_Methods_Parsa.pdf](#antarctic_governance_methods_parsapdf)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [1. Topic Modeling](#1-topic-modeling)
-  - [2. Network Analysis](#2-network-analysis)
-  - [3. Statistical Validation](#3-statistical-validation)
-  - [4. Heatmaps and Visualizations](#4-heatmaps-and-visualizations)
-- [Methodological Details](#methodological-details)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
