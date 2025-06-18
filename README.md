@@ -62,11 +62,4 @@ Provides **network and data visualization** utilities, such as:
 - Visualizing co-authorship networks with PyVis or NetworkX.
 - Generating heatmaps, bar charts, or other plots to show top collaborators, highest topic scorers, etc.
 
-### Antarctic_Governance_Methods_Parsa.pdf
-A **methodological paper** detailing the approach used in this project, including:
-- LDA and text preprocessing steps.
-- Network construction and centrality measures.
-- Randomization/permutation tests for statistical validation.
-- Discussion of the Kneedle algorithm for threshold selection.
-
 
