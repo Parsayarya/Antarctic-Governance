@@ -1,0 +1,38 @@
+Author,Community,Paper_Count,Is_Isolated
+Germany,0,9,False
+United States,1,40,False
+Chile,1,18,False
+New Zealand,3,61,False
+Spain,1,17,False
+United Kingdom,0,64,False
+SCAR,3,23,False
+Australia,3,27,False
+Netherlands,0,8,False
+Norway,1,21,False
+ASOC,-1,21,True
+Czechia,3,5,False
+Belgium,0,12,False
+Portugal,0,1,False
+Brazil,2,3,False
+Poland,2,2,False
+Italy,1,12,False
+Argentina,1,9,False
+Ukraine,-1,5,True
+Korea (ROK),1,6,False
+Uruguay,3,1,False
+Romania,-1,2,True
+India,3,7,False
+Russian Federation,3,11,False
+IUCN,-1,4,True
+WMO,-1,1,True
+South Africa,0,4,False
+Türkiye,0,2,False
+France,3,6,False
+Monaco,0,1,False
+China,3,12,False
+Japan,3,1,False
+Belarus,-1,1,True
+Ecuador,2,1,False
+Peru,2,1,False
+COMNAP,-1,1,True
+ATS,-1,1,True

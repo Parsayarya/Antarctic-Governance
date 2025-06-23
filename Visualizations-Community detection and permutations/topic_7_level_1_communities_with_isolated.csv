@@ -1,0 +1,18 @@
+Author,Community,Paper_Count,Is_Isolated
+United Kingdom,1,24,False
+Chile,1,7,False
+Spain,1,4,False
+Ecuador,-1,1,True
+Australia,0,14,False
+Netherlands,0,1,False
+United States,1,15,False
+New Zealand,-1,6,True
+Argentina,1,4,False
+India,0,2,False
+China,0,4,False
+Russian Federation,0,1,False
+Japan,-1,2,True
+Poland,-1,3,True
+Korea (ROK),-1,1,True
+France,-1,1,True
+ATS,-1,1,True
